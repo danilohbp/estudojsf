@@ -14,7 +14,7 @@ import javax.persistence.Query;
 public class PersistidorDeAutomovel {
 
     public static void main(String[] args) {
-        inserir(); // Pode trocar para excluir caso queira remover automoveis
+        inserir();
     }
 
     public static void inserir() {
