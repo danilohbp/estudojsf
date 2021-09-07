@@ -1,4 +1,4 @@
-com/estudojsf/aplicacao/PersistidorDeAutomovel.class
-com/estudojsf/controle/AutomovelBean.class
-com/estudojsf/entidade/Automovel.class
-com/estudojsf/util/JPAUtil.class
+com\estudojsf\aplicacao\PersistidorDeAutomovel.class
+com\estudojsf\entidade\Automovel.class
+com\estudojsf\util\JPAUtil.class
+com\estudojsf\controle\AutomovelBean.class

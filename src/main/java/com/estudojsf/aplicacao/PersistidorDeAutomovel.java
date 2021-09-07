@@ -14,7 +14,6 @@ import javax.persistence.Query;
 public class PersistidorDeAutomovel {
 
     public static void main(String[] args) {
-//        excluir();
         inserir();
     }
 
